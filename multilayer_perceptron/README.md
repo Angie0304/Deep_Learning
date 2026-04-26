@@ -29,3 +29,29 @@ The module follows these steps:
 6. Train the model using the processed data
 7. Evaluate the model on test data
 8. Analyze classification performance
+
+# Usage 
+
+
+1. Navigate to the project directory
+
+```bash
+cd multilayer_perceptron
+```
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Navigate to the notebooks directory
+```bash
+cd notebooks
+```
+
+4. Run the notebooks
+```bash
+jupyter notebook Preprocesamiento.ipynb
+jupyter notebook Perceptrón_Multicapa.ipynb
+```

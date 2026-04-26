@@ -59,3 +59,11 @@ jupyter notebook preprocesamiento.ipynb
 ```bash
 jupyter notebook perceptron_multicapa.ipynb
 ```
+6. Output
+The notebooks will:
+
+- Evaluate classification performance
+- Display results and model predictions
+
+## Status 
+Complete

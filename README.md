@@ -1,1 +1,14 @@
 # Deep_Learning
+
+This repository contains practical implementations of Deep Learning concepts, focusing on neural networks and model training. It covers different approaches to building and evaluation.
+
+## Module Structure
+
+```text
+Artificial_Vision/
+├── convolutional_neural_networks/
+|   └── residual_blocks_fashion_mnist/          
+├── multilayer_perceptron/     
+└── README.md                  
+```
+

@@ -50,8 +50,12 @@ pip install -r requirements.txt
 cd notebooks
 ```
 
-4. Run the notebooks
+4. Run the notebook "preprocesamiento.ipynb"
 ```bash
-jupyter notebook Preprocesamiento.ipynb
-jupyter notebook Perceptrón_Multicapa.ipynb
+jupyter notebook preprocesamiento.ipynb
+```
+
+5. Run the notebook "perceptron_multicapa.ipynb"
+```bash
+jupyter notebook perceptron_multicapa.ipynb
 ```

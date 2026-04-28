@@ -5,7 +5,7 @@ This repository contains practical implementations of Deep Learning concepts, fo
 ## Repository Structure
 
 ```text
-Artificial_Vision/
+Deep_Learning/
 ├── convolutional_neural_networks/        
 ├── multilayer_perceptron/     
 └── README.md                  

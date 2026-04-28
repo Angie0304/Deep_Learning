@@ -6,8 +6,8 @@ This repository contains practical implementations of Deep Learning concepts, fo
 
 ```text
 Deep_Learning/
-├── convolutional_neural_networks/        
-├── multilayer_perceptron/     
-└── README.md                  
+├── convolutional_neural_networks/  # CNN-based image processing models
+├── multilayer_perceptron/          # Fully connected neural networks
+└── README.md                       # Main documentation                
 ```
 

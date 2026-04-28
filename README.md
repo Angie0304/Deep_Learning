@@ -6,8 +6,7 @@ This repository contains practical implementations of Deep Learning concepts, fo
 
 ```text
 Artificial_Vision/
-├── convolutional_neural_networks/
-|   └── residual_blocks_fashion_mnist/          
+├── convolutional_neural_networks/        
 ├── multilayer_perceptron/     
 └── README.md                  
 ```

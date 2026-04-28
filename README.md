@@ -2,7 +2,7 @@
 
 This repository contains practical implementations of Deep Learning concepts, focusing on neural networks and model training. It covers different approaches to building and evaluation.
 
-## Module Structure
+## Repository Structure
 
 ```text
 Artificial_Vision/
